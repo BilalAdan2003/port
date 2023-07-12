@@ -59,5 +59,9 @@ html {
 
 }
 .section-1-btn{font-size: 1.7rem;
-font-weight: 700;}
+font-weight: 700;
+color: #333;
+background-color:#fff;
+
+}
 /* end of section 1 */
