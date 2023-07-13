@@ -120,5 +120,6 @@ html {
   background-color: white;
   flex-direction: column;
   align-items: center;
+  display: flex;
 }
 /* end of section 2 */
