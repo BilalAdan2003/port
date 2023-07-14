@@ -178,7 +178,7 @@ progress-bar {
   background-color: #e41c6f;
   border-radius: 0.3rem;
 }
-.services {
+.services{
   width: 100%;
   height: 30vh;
   display: flex;
@@ -188,26 +188,21 @@ progress-bar {
 .service {
   text-align: center;
 }
+.service i{ font-size: 10rem;
+color: #888;
+margin-bottom: 2rem;
+text-shadow: .1rem .1rem 0.5rem  #555;}
 
-.service:first-child,
-.service:last-child {
-  align-self: start;
-}
-.service i {
-  font-size: 10rem;
-  color: #888;
-  margin-bottom: 2rem;
-  text-shadow: 0.1rem 0.1rem 0.5rem #555;
-}
 
-.section h2 {
+.section h2{
   font-size: 2rem;
   color: #fff;
   background-color: #777;
   width: 25rem;
-  letter-spacing: 0.3rem;
+  letter-spacing: .3rem;
   transform: skewY(-10deg);
   box-shadow: 0.2 0.2 0.5 #555;
+
 }
 
 /* end of section 2 */
